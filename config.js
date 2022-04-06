@@ -1,6 +1,6 @@
 let fs = require('fs')
 global.DeveloperMode = 'false' //true atau false, true berati iya false berati tidak Moga paham
-global.linkGC = [https://chat.whatsapp.com/LHdkrKiXNu0CatC6GFlIMQ] // link gc lu
+global.linkGC = [https://chat.whatsapp.com/DOXvG93tXPW1nccjHscjhJ] // link gc lu
 global.channelYT = [https://youtube.com/channel/UCvrivTo2m56JpBccnenbI_A] // link yt lu klo g ad g ush di isi
 global.owner = ['6282136031499'] // masuk in no lu sebagai owner
 global.mods = ['6282136031499'] // masuk in no moderator ny
